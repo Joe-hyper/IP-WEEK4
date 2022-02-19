@@ -11,7 +11,7 @@ Joseph Njuguna
 
 **Project purpose:**
 
-Conduct of data report for Cesla- Electric car company
+Conduct of data report for Tesla- Electric car company
 
 **Setup/installation:**
 
